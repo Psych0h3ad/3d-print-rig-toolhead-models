@@ -551,6 +551,11 @@
       "path": "trinity-alpha3-native-source.zip",
       "bytes": 21005931,
       "sha256": "b7c1847f9e87bcfbb580e70386852bab1847e807e66334d33c651a307bbf2578"
+    },
+    "native-alpha-92/ff8557d93e9d3803b3e4/installation-source-proof.json": {
+      "path": "native-alpha-92/ff8557d93e9d3803b3e4/installation-source-proof.json",
+      "bytes": 969027,
+      "sha256": "d3d5133cba7bd72a40b4d8ea9d034a9000521b7936412a2d1d8b9b582fa75fb6"
     }
   }
 }
