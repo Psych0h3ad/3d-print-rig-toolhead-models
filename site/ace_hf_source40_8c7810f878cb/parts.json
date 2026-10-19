@@ -1,0 +1,877 @@
+{
+  "id": "sb_rapido_ace_hf_complete",
+  "schema": "source-mated-complete-hotend-module-v1",
+  "parts": [
+    {
+      "key": "oem-ace-hf-direct-000",
+      "name": "oem-ace-hf-direct-000",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -5.24867682794353,
+          -34.10280358888446,
+          317.79860511031325
+        ],
+        [
+          5.248679025031401,
+          -23.617193534090823,
+          347.2986051103133
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-direct-001",
+      "name": "oem-ace-hf-direct-001",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -9.49970326479831,
+          -37.750813792671984,
+          336.89860358443434
+        ],
+        [
+          15.386321538767728,
+          -20.31166213395138,
+          337.89860358443434
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-direct-002",
+      "name": "oem-ace-hf-direct-002",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          3.3857239981231313,
+          -33.110963378648684,
+          318.29860511031325
+        ],
+        [
+          9.50487491404785,
+          -25.053890301187263,
+          333.2986051103133
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-direct-003",
+      "name": "oem-ace-hf-direct-003",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -0.8019353385284728,
+          -33.66974129357689,
+          321.84511008467854
+        ],
+        [
+          5.693957831615399,
+          -24.011650833746913,
+          329.84511008467854
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-direct-004",
+      "name": "oem-ace-hf-direct-004",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -10.999873463847537,
+          -39.849882844060154,
+          340.09860434737385
+        ],
+        [
+          10.184081876402177,
+          -17.875108830007754,
+          363.09860434737385
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-direct-005",
+      "name": "oem-ace-hf-direct-005",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          1.9055726152978207,
+          -37.04190476261622,
+          335.298604757801
+        ],
+        [
+          4.904286301432515,
+          -34.04319095435739,
+          342.89860475827777
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-resume-000",
+      "name": "oem-ace-hf-resume-000",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          2.587605233384563,
+          -24.06715940088088,
+          335.29860475780094
+        ],
+        [
+          5.581984551397962,
+          -21.072780082867478,
+          342.89860475827777
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-resume-001",
+      "name": "oem-ace-hf-resume-001",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -8.989076869253728,
+          -29.96683496728841,
+          335.29860475780094
+        ],
+        [
+          -5.990363183119032,
+          -26.968121159029582,
+          342.89860475827777
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-resume-002",
+      "name": "oem-ace-hf-resume-002",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -10.733272991787219,
+          -40.23550228559586,
+          314.97860473412527
+        ],
+        [
+          10.84868328909859,
+          -17.402040969473788,
+          338.9792863290894
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-resume-003",
+      "name": "oem-ace-hf-resume-003",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -3.8988349719008513,
+          -32.723761913096155,
+          312.2986047339591
+        ],
+        [
+          3.8988378549475917,
+          -24.996235195917116,
+          324.79860477464194
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-resume-004",
+      "name": "oem-ace-hf-resume-004",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          1.569023851312052,
+          -30.591692838956458,
+          324.74741231371945
+        ],
+        [
+          10.369642121760645,
+          -27.495511228022885,
+          335.09589309929555
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-hf-resume-005",
+      "name": "oem-ace-hf-resume-005",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -4.191478909850918,
+          -33.059242920248664,
+          338.79860475780094
+        ],
+        [
+          4.191481792897652,
+          -24.660754188764642,
+          347.79860475780094
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "oem-ace-uhf-014",
+      "name": "oem-ace-uhf-014",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -9.994115192012028,
+          -38.85802626419767,
+          363.09860475184126
+        ],
+        [
+          9.994118075058754,
+          -18.861970844815712,
+          366.0986047637622
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "hf-original-rapido-front",
+      "name": "hf-original-rapido-front",
+      "motion": "xy",
+      "appearance_role": "base",
+      "bounds_mm": [
+        [
+          -35.534090852764415,
+          -56.2601797268726,
+          314.46567066432635
+        ],
+        [
+          35.533570432635976,
+          -28.85999903082848,
+          373.5986047578017
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "hf-original-rapido-rear-cw2",
+      "name": "hf-original-rapido-rear-cw2",
+      "motion": "xy",
+      "appearance_role": "base",
+      "bounds_mm": [
+        [
+          -24.0674399692017,
+          -40.51569971442223,
+          317.896728570039
+        ],
+        [
+          33.58356100736081,
+          -14.26000437140465,
+          377.5986099787304
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "sb_rapido2_hf_front_7",
+      "name": "sb_rapido2_hf_front_7",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          9.619435295462608,
+          -60.036540031433105,
+          315.3776228427887
+        ],
+        [
+          18.59460026025772,
+          -53.62194776535034,
+          324.9005079269409
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "sb_rapido2_hf_front_8",
+      "name": "sb_rapido2_hf_front_8",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -18.61281506717205,
+          -60.03949046134949,
+          315.3311610221863
+        ],
+        [
+          -9.637651033699512,
+          -53.624898195266724,
+          324.8540461063385
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "sb_rapido2_hf_front_9",
+      "name": "sb_rapido2_hf_front_9",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -6.899998523294926,
+          -66.3599967956543,
+          378.1495988368988
+        ],
+        [
+          6.897963583469391,
+          -61.159998178482056,
+          389.68393206596375
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "sb_rapido2_hf_front_10",
+      "name": "sb_rapido2_hf_front_10",
+      "motion": "xy",
+      "appearance_role": "base",
+      "bounds_mm": [
+        [
+          -7.849998772144318,
+          -65.5599981546402,
+          377.1996200084686
+        ],
+        [
+          7.847963832318783,
+          -60.759998857975006,
+          390.6339406967163
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "sb_rapido2_hf_front_11",
+      "name": "sb_rapido2_hf_front_11",
+      "motion": "xy",
+      "appearance_role": "base",
+      "bounds_mm": [
+        [
+          -8.79999902099371,
+          -60.759998857975006,
+          376.323938369751
+        ],
+        [
+          10.500001721084118,
+          -53.747355937957764,
+          390.733927488327
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "sb_rapido2_hf_front_12",
+      "name": "sb_rapido2_hf_front_12",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -5.401017609983683,
+          -57.6973557472229,
+          379.4374465942383
+        ],
+        [
+          4.0989825502038,
+          -54.69735339283943,
+          388.93744349479675
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "sb_rapido2_hf_front_13",
+      "name": "sb_rapido2_hf_front_13",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -18.954992294311523,
+          -54.46000024676323,
+          393.46277713775635
+        ],
+        [
+          19.977325573563576,
+          -43.960001319646835,
+          432.4153959751129
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "sb_rapido2_hf_front_14",
+      "name": "sb_rapido2_hf_front_14",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -26.61193162202835,
+          -49.75999891757965,
+          376.27536058425903
+        ],
+        [
+          23.36762100458145,
+          -41.760001331567764,
+          437.86048889160156
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "sb_rapido2_hf_front_15",
+      "name": "sb_rapido2_hf_front_15",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -19.999999552965164,
+          -67.160002887249,
+          335.2014124393463
+        ],
+        [
+          19.999999552965164,
+          -56.6600002348423,
+          375.20140409469604
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "0ad246dd27eeb6782825b0087e672b9a880c856778efe034189cb994a38680ee",
+        "bytes": 26983016
+      }
+    },
+    {
+      "key": "acehf_cowl",
+      "name": "Stealthburner_Body",
+      "motion": "xy",
+      "appearance_role": "accent",
+      "bounds_mm": [
+        [
+          -32.56907923011588,
+          -68.36000043065671,
+          314.4670640669718
+        ],
+        [
+          32.56907923011588,
+          -36.56000206088504,
+          441.26960556227493
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "f636183f9d2f0502672ddd4493472b6012a4b5c906c2244521e35dd81b26945a",
+        "bytes": 6415592
+      }
+    },
+    {
+      "key": "acehf_primary_NAUO469",
+      "name": "DIN EN ISO 4762 - M3 x 50",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -19.000001429394942,
+          -63.36000001739847,
+          328.6513951406342
+        ],
+        [
+          -13.500001429394924,
+          -10.359999999994075,
+          334.1513951406347
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "72c6a2a720cbabc799a4a57fb4479ab43218069a4a3904373b86c87193d87f8a",
+        "bytes": 172712
+      }
+    },
+    {
+      "key": "acehf_primary_NAUO470",
+      "name": "DIN EN ISO 4762 - M3 x 50",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          13.500001429394922,
+          -63.360000017398455,
+          328.6513951406342
+        ],
+        [
+          19.000001429394942,
+          -10.359999999994075,
+          334.1513951406347
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "72c6a2a720cbabc799a4a57fb4479ab43218069a4a3904373b86c87193d87f8a",
+        "bytes": 172712
+      }
+    },
+    {
+      "key": "acehf_primary_NAUO471",
+      "name": "M3x25 SHCS",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -25.4499999999998,
+          -53.46000208127232,
+          380.84960570816094
+        ],
+        [
+          -19.9499999999998,
+          -25.460002063868302,
+          386.3496057081609
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "f39817bcbdb6a6177564ae251ebea0e60f6024e37fdb25e2119e6c20cf1ff101",
+        "bytes": 172868
+      }
+    },
+    {
+      "key": "acehf_primary_NAUO472",
+      "name": "M3x25 SHCS",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          19.9499999999997,
+          -53.46000208127232,
+          380.84960570816094
+        ],
+        [
+          25.449999999999697,
+          -25.460002063868302,
+          386.3496057081609
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "f39817bcbdb6a6177564ae251ebea0e60f6024e37fdb25e2119e6c20cf1ff101",
+        "bytes": 172868
+      }
+    },
+    {
+      "key": "acehf_primary_NAUO467",
+      "name": "M3x6 FHCS",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -26.356698198424212,
+          -45.94999999995683,
+          394.61085826737224
+        ],
+        [
+          -20.81669823657118,
+          -39.94999999995607,
+          400.15085822922543
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "f40ee8a02d650f3174efeee37bfdaec19bf6e639474c7fa5fbc05ccfb55b4486",
+        "bytes": 64996
+      }
+    },
+    {
+      "key": "acehf_primary_NAUO468",
+      "name": "M3x6 FHCS",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          19.223682040135888,
+          -46.04999999995093,
+          423.66956601911653
+        ],
+        [
+          24.76368200198892,
+          -40.04999999995017,
+          429.2095659809697
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "f40ee8a02d650f3174efeee37bfdaec19bf6e639474c7fa5fbc05ccfb55b4486",
+        "bytes": 64996
+      }
+    },
+    {
+      "key": "acehf_M3x12_tie_0",
+      "name": "M3x12 SHCS",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -15.449865493546527,
+          -30.36000284552574,
+          364.7721939631054
+        ],
+        [
+          -9.949865493546525,
+          -15.36000282812172,
+          370.27219396310534
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "db6ea452ce2184e05801620649c0e9c8dd81660a8c234ee58fb82139c9476228",
+        "bytes": 172924
+      }
+    },
+    {
+      "key": "acehf_M3_heatset_0",
+      "name": "M3 Threaded Insert",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -15.199546572835182,
+          -32.85999904274941,
+          365.02224864221074
+        ],
+        [
+          -10.1998486579421,
+          -28.859999030827467,
+          370.0219320373663
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "09b8b31f0f868c2939b377289ff9b490d436449e6f5c487a6e91897f2b820f28",
+        "bytes": 356544
+      }
+    },
+    {
+      "key": "acehf_M3x12_tie_1",
+      "name": "M3x12 SHCS",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          9.949869003523817,
+          -30.36000284552574,
+          364.7721939631054
+        ],
+        [
+          15.449869003523816,
+          -15.36000282812172,
+          370.27219396310534
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "db6ea452ce2184e05801620649c0e9c8dd81660a8c234ee58fb82139c9476228",
+        "bytes": 172924
+      }
+    },
+    {
+      "key": "acehf_M3_heatset_1",
+      "name": "M3 Threaded Insert",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          10.2001931120443,
+          -32.85999904274941,
+          365.0222486549605
+        ],
+        [
+          15.199891026937381,
+          -28.859999030827467,
+          370.021932050116
+        ]
+      ],
+      "source_model_identity": {
+        "sha256": "09b8b31f0f868c2939b377289ff9b490d436449e6f5c487a6e91897f2b820f28",
+        "bytes": 356544
+      }
+    },
+    {
+      "key": "acehf_M2_5x8_0",
+      "name": "M2.5x8 SHCS",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -6.602922701786233,
+          -37.81517266796171,
+          362.098588426129
+        ],
+        [
+          -2.1113017718745004,
+          -33.3235529022032,
+          372.5986022544066
+        ]
+      ]
+    },
+    {
+      "key": "acehf_M2_5x8_1",
+      "name": "M2.5x8 SHCS",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          4.463553969966447,
+          -35.4629214957312,
+          362.0986182284514
+        ],
+        [
+          8.955174667047535,
+          -30.971299867327538,
+          372.5986022544066
+        ]
+      ]
+    },
+    {
+      "key": "acehf_M2_5x8_2",
+      "name": "M2.5x8 SHCS",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -8.955172394948177,
+          -26.74869830197533,
+          362.0986235685894
+        ],
+        [
+          -4.463551465036443,
+          -22.257074810926518,
+          372.5986075945446
+        ]
+      ]
+    },
+    {
+      "key": "acehf_M2_5x8_3",
+      "name": "M2.5x8 SHCS",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          2.1113051271298717,
+          -24.396445167525428,
+          362.098593766267
+        ],
+        [
+          6.602925824210961,
+          -19.904823539121764,
+          372.5986075945446
+        ]
+      ]
+    },
+    {
+      "key": "acehf_source_liner_cut",
+      "name": "Source PTFE liner, finite cold-seat cut",
+      "motion": "xy",
+      "appearance_role": null,
+      "bounds_mm": [
+        [
+          -1.9999970896169543,
+          -30.754406042397022,
+          357.82057871274816
+        ],
+        [
+          2.0000029103830457,
+          -26.765590496361256,
+          384.59861292295324
+        ]
+      ]
+    }
+  ],
+  "source_credit": {
+    "printed": "VoronDesign/Voron-Stealthburner, pinned8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+    "hotend": "Trianglelab/Triangle-lab Rapido ACE official public source",
+    "OEM_terms": "Acquired source documents did not state a CAD redistribution license; this is recorded separately from the printed-part GPL notice."
+  },
+  "derivatives": [
+    "Source PTFE468 is finitely cut at the measured cold seat; original and derivative retained in forensic evidence.",
+    "Original positive source geometry kept; rigid mating placements and source fragment encoding are documented separately."
+  ],
+  "built_in_supports_removed": false,
+  "native_fit_qualified": false
+}

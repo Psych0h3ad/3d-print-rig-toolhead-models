@@ -1,0 +1,24 @@
+{
+  "schema": "ACE-HF-source-credit-version-and-terms-v1",
+  "model_sha256": "8c7810f878cb6e2e954cec6544fb6bdb20e54aa8d2e206beda4948c56f7197e9",
+  "OEM": {
+    "credit": "Trianglelab / Triangle-lab Rapido ACE",
+    "public_source_URL": "https://drive.google.com/file/d/11VwlPvLXZAY1s8cOg0UsQQnucitJgoFR/view",
+    "revision": "OEM public HF source,Last-Modified2024-06-21",
+    "source_sha256": "3b2d6af853b1f21c10c9c3c1c4047fe8cb439be027d3178ac2160f5611be1d3a",
+    "terms": "The acquired OEM files did not state an explicit CAD redistribution license. This is distinct from the printed-part license."
+  },
+  "printed": {
+    "credit": "VoronDesign / Voron-Stealthburner",
+    "revision": "8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+    "source_URL": "https://github.com/VoronDesign/Voron-Stealthburner/tree/8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b",
+    "license": "GPL-3.0 as stated by the pinned source"
+  },
+  "derivatives": [
+    "Source-preserving face-fragment encoding and source-derived rigid placements.",
+    "Original source PTFE liner has the separately documented finite cut.",
+    "47 original rigid links and retained source hardware. Existing project PTFE/CAN display sweeps are not OEM electrical harness solids."
+  ],
+  "built_in_supports_removed": false,
+  "whole_physical_fit_certified": false
+}
