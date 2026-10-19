@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "version": "trinity-native-88",
+  "version": "native-toolheads-ace-hf-1",
   "files": {
     "trinity_v05/parts.json": {
       "path": "trinity/v05/parts.json",
@@ -571,6 +571,31 @@
       "path": "native-alpha-92/ff8557d93e9d3803b3e4/42d43dcb691e84c2-SIBOOR_R2_FINITE_NATIVE_SUPPORT_RULES.json",
       "bytes": 942942,
       "sha256": "42d43dcb691e84c2bd74155fdc38e329ff503948d295f0a4bb518d164c49f40f"
+    },
+    "ace_hf_source40_8c7810f878cb/GPL-3.0.txt": {
+      "bytes": 35149,
+      "sha256": "3972dc9744f6499f0f9b2dbf76696f2ae7ad8af9b23dde66d6af86c9dfb36986",
+      "path": "ace_hf_source40_8c7810f878cb/GPL-3.0.txt"
+    },
+    "ace_hf_source40_8c7810f878cb/model.glb.gz": {
+      "bytes": 9614372,
+      "sha256": "108e56e403051f726835a460570533fffbd79d643dd0b618813e207c87c3a5ba",
+      "path": "ace_hf_source40_8c7810f878cb/model.glb.gz"
+    },
+    "ace_hf_source40_8c7810f878cb/parts.json": {
+      "bytes": 22531,
+      "sha256": "81cf82a0f2cfb8739845c6f2a84927568f6dcb87c63761329fad31ed4640aedf",
+      "path": "ace_hf_source40_8c7810f878cb/parts.json"
+    },
+    "ace_hf_source40_8c7810f878cb/SOURCE_NOTICES.json": {
+      "bytes": 1318,
+      "sha256": "a0f713519da6061fed32127da4a7ddeaa74ae8f130ff5985e43a21b68a3a9f04",
+      "path": "ace_hf_source40_8c7810f878cb/SOURCE_NOTICES.json"
+    },
+    "ace_hf_source40_8c7810f878cb/TOOLHEAD_CONFIGURATIONS.c95523f09e89.json": {
+      "bytes": 8916573,
+      "sha256": "c95523f09e893ed2b4a7603a3e3c74aa39aa0c97508f00b2d60202e26b33afbf",
+      "path": "ace_hf_source40_8c7810f878cb/TOOLHEAD_CONFIGURATIONS.c95523f09e89.json"
     }
   }
 }
