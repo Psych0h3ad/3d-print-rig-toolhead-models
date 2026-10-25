@@ -596,6 +596,21 @@
       "bytes": 8916573,
       "sha256": "c95523f09e893ed2b4a7603a3e3c74aa39aa0c97508f00b2d60202e26b33afbf",
       "path": "ace_hf_source40_8c7810f878cb/TOOLHEAD_CONFIGURATIONS.c95523f09e89.json"
+    },
+    "trinity-native-20261026/n19/parts.json": {
+      "path": "trinity-native-20261026/n19/parts.json",
+      "bytes": 120082,
+      "sha256": "2fec6108738d9a8455d7c1e930464a02a129eb7030b79227f6136c51d63dd9cc"
+    },
+    "trinity-native-20261026/n19/model.glb.gz": {
+      "path": "trinity-native-20261026/n19/model.glb.gz",
+      "bytes": 22075866,
+      "sha256": "e2df7b2078f78e515f55cd326453981a57206a3dbf5b5ed70d16799c1c1cc309"
+    },
+    "trinity-native-20261026/n19/source-supplement.zip": {
+      "path": "trinity-native-20261026/n19/source-supplement.zip",
+      "bytes": 34519,
+      "sha256": "f6a2d77f5a7909df5da243ca954f7157a0c91f13523f90bd4f8e331c232eb1ba"
     }
   }
 }

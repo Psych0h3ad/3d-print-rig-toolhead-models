@@ -38,3 +38,18 @@ Printed parts: VoronDesign / Voron-Stealthburner, revision 8bcb9c246fac19d8ac039
 https://github.com/VoronDesign/Voron-Stealthburner/tree/8bcb9c246fac19d8ac03931ef97fa07c5e5f0f2b
 GPL-3.0 applies to the printed designs. The acquired OEM CAD states no explicit redistribution license; see the separate SOURCE_NOTICES.json.
 This mesh assembly includes the HF mount, original 3 mm spacer, CW2, fans and LEDs. Physical cable lengths, bend limits and whole-machine fit remain unverified.
+
+
+Trinity v1.54 MGN12 6 mm / Beacon display derivative
+
+Trinity: WV-design/Trinity-toolhead, d17a5c9fad6f21fd4a3a9869d498656b4b03d1dc, GPL-3.0.
+https://github.com/WV-design/Trinity-toolhead
+Beacon MCAD: Copyright (c) 2022 Beacon, MIT, bb8e34c6fd7fb3b200c3a2688fee9f4ce8c76278.
+https://github.com/beacon3d/docs/tree/bb8e34c6fd7fb3b200c3a2688fee9f4ce8c76278/mcad/beacon
+Manufacturer guidance: https://docs.beacon3d.com/installation/
+
+The documented metal keepout cone and 2.6 mm bed-spacing disc are omitted from the sensor display. The physical coil PCB, controller PCB, pins and connector retain their original positions. The other 94 web-model parts are unchanged. This change does not certify complete head or printer fit.
+
+This supplement contains the original public-source coil solid, its editable physical derivative and the source operation. Unchanged native assembly bodies and transforms remain available in trinity-standard-native-source-mgn12.zip at the same model site. Existing author terms continue to apply. Molex connector geometry is not included in this supplement; the unchanged web assembly retains the manufacturer terms recorded in BEACON_LICENSE.txt.
+
+Editable n19 Beacon source supplement: https://psych0h3ad.github.io/3d-print-rig-toolhead-models/trinity-native-20261026/n19/source-supplement.zip
